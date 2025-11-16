@@ -1,0 +1,27 @@
+.OuterDiv{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    border:2px solid black;
+    height:500px;
+    width:500px;
+}
+
+.iconImg{
+    width:250px;
+    height:250px;
+}
+
+.para{
+    text-align:center;
+}
+
+
+.Divv{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px
+}
